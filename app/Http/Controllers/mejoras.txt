@@ -1,0 +1,15 @@
+-descargar los datos de los eventos a un pdf
+-hacer un sistema de inventario y en base a los eventos apartados controlar los equipos usados
+-IA de rutas por trafico
+
+-buscadores
+-mostrar solo 10 articulos y moverlos a traves de flechas para ver mas 
+-numero de celular para ingresar
+
+-foto a los usuarios, y administradores
+
+
+cosas por hacer:
+
+-verificacion por el correo
+-contactanos de la pagina principal

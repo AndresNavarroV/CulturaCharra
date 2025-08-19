@@ -1,0 +1,11 @@
+-hay error a la hora de guardar un cliente
+-hay error a la hora de cambiar de rol
+
+urgentes
+-agregar un apartado de aceptar evento en sonido y en mariachis una columna de si el evento fue aceptado o rechazado.
+-unir la IA con la pagina 
+-guardar proyecto en git y github
+
+
+
+

@@ -1,0 +1,21 @@
+name,artist_name,genre,uri,danceability,energy,valence,tempo
+Blinding Lights,The Weeknd,pop,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,0.51,0.73,0.56,171.005
+Believer,Imagine Dragons,rock,spotify:track:0pqnGHJpmpxLKifKRmU6WP,0.45,0.84,0.49,125.985
+Uptown Funk,Bruno Mars,pop,spotify:track:6epn3r7S14KUqlReYr77hA,0.8,0.9,0.95,115.02
+Radioactive,Imagine Dragons,rock,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,0.55,0.82,0.45,136.005
+Shape of You,Ed Sheeran,pop,spotify:track:7qiZfU4dY1lWllzX7mPBI3,0.65,0.78,0.62,96.0
+Take Me To Church,Hozier,rock,spotify:track:2xjQ4m0C2Yb8THRavYb0Oa,0.41,0.64,0.33,130.0
+Rolling in the Deep,Adele,pop,spotify:track:1MDoll6jK4rrk2BcFRP5i7,0.52,0.8,0.4,105.0
+Smells Like Teen Spirit,Nirvana,rock,spotify:track:5ghIJDpPoe3CfHMGu71E6T,0.4,0.92,0.38,117.0
+Bohemian Rhapsody,Queen,rock,spotify:track:7tFiyTwD0nx5a1eklYtX2J,0.33,0.6,0.42,143.0
+Shake It Off,Taylor Swift,pop,spotify:track:5WfhX7XgQacA1zm42LZhO2,0.7,0.85,0.98,160.0
+Can't Stop the Feeling!,Justin Timberlake,pop,spotify:track:6JV2JOEocMgcZxYSZelKcc,0.76,0.79,0.93,113.001
+Somebody Told Me,The Killers,rock,spotify:track:3n3Ppam7vgaVa1iaRUc9Lp,0.59,0.89,0.54,136.001
+Levitating,Dua Lipa,pop,spotify:track:463CkQjx2Zk1yXoBuierM9,0.7,0.8,0.83,103.005
+Seven Nation Army,The White Stripes,rock,spotify:track:3d9DChrdc6BOeFsbrZ3Is0,0.58,0.81,0.47,123.99
+Happy,Pharrell Williams,pop,spotify:track:60nZcImufyMA1MKQY3dcCH,0.82,0.79,0.96,160.0
+Come As You Are,Nirvana,rock,spotify:track:3gsCAGsWr6pUm1Vy7cppxD,0.45,0.65,0.39,120.0
+Havana,Camila Cabello,pop,spotify:track:1rfofaqEpACxVEHIZBJe6W,0.73,0.6,0.85,105.001
+Boulevard of Broken Dreams,Green Day,rock,spotify:track:5GorCbAP4aL0EJ16frG2hd,0.5,0.7,0.42,84.009
+Don't Start Now,Dua Lipa,pop,spotify:track:6WrI0LAC5M1Rw2MnX2ZvEg,0.79,0.81,0.89,124.008
+Mr. Brightside,The Killers,rock,spotify:track:0eGsygTp906u18L0Oimnem,0.5,0.95,0.56,148.038
